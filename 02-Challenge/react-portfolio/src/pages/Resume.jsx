@@ -1,5 +1,5 @@
 import React from 'react';
-import sampleResume from '../pages/Resume';
+import sampleResume from './Resume';
 
 function Resume() {
   return (
